@@ -1,6 +1,6 @@
 
 # Setting up developement environment
-## Installing RVM and Ruby 
+## Install RVM and Ruby 
     sudo apt-get update
     sudo apt-get install curl
     \curl -sSL https://get.rvm.io | bash
@@ -18,7 +18,7 @@ or use the below commands to install it from the terminal
     sudo add-apt-repository ppa:webupd8team/atom
     sudo apt-get update
     sudo apt-get install atom
-## Updating bashrc for RVM
+## Update bashrc for RVM
 Open new terminal and run the below command
 
     atom ~/.bashrc
