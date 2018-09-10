@@ -40,7 +40,10 @@ Close the terminal and open a new terminal and run the below command to check wh
     rails -v
 Above command should output the ruby verson
 ## Create Sample app
+    mkdir Project
+    cd Project
     rails new sample
+    cd sample
     rails s
 
 Open browser and access the below url
